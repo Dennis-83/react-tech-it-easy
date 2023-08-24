@@ -1,0 +1,11 @@
+.current-stock {
+    color: red;
+}
+
+.total-sold {
+    color: limegreen;
+}
+
+.total-stock {
+    color: blue;
+}
